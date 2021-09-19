@@ -1,0 +1,26 @@
+.name{
+    font: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.hobbies{
+    font-size: 50px;
+}.body{
+    background-color: lightblue;
+}
+.book{
+    font-size: 80px;
+}
+.padding{
+    /* padding-top: 100px;
+    padding-left: 100px; */
+    padding: 50px 10px 20px 30px";
+}
+.colour{
+    background-color: rgb(145, 237, 253);
+}
+.ow{
+    color: rgb(0, 0, 0);
+}
+.para{
+    width: 600px;
+}
