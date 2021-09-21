@@ -4,6 +4,8 @@
 }
 .hobbies{
     font-size: 50px;
+    font-style: inherit;
+    font-weight: 50;
 }.body{
     background-color: lightblue;
 }
@@ -23,4 +25,13 @@
 }
 .para{
     width: 600px;
+}
+.facts{
+    background-color: white;
+}
+.hr{
+    width: 400px;
+}
+.sci{
+    background-color: bisque;
 }
